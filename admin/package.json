@@ -1,0 +1,14 @@
+{
+  "name": "kranthi",
+  "version": "1.0.0",
+  "description": "food del",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+
+    
+  },
+  "author": "kranthi",
+  "license": "ISC"
+}
