@@ -15,7 +15,7 @@ const  port = process.env.PORT || 4000;
 
 // middleware
 app.use(express.json())
-app.use(cors({ origin: 'https://food-del-frontend-cduiz6bab-krantikeyas-projects.vercel.app' }));
+app.use(cors({ origin: 'https://food-del-frontend-cduiz6bab-krantikeyas-projects.vercel.app/' }));
 
 //db connection
 connectDB();
